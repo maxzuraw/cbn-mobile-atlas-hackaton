@@ -37,3 +37,6 @@ Press 'i' in console where yarn start was entered.
 3. Add corresponding settings inside "Settings" tab in the application. localhost does not work, it has to be IP of the host,
 for example: 192.168.1.10:8080
    
+# Using expo link
+
+https://expo.dev/@l0cke/cbn-mobile
