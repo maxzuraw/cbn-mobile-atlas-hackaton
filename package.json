@@ -1,0 +1,41 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.0.9",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "@reduxjs/toolkit": "^1.7.1",
+    "base-64": "^1.0.0",
+    "expo": "~44.0.0",
+    "expo-checkbox": "~2.0.0",
+    "expo-radio-button": "^1.0.8",
+    "expo-sqlite": "~10.1.0",
+    "expo-status-bar": "~1.2.0",
+    "moment": "^2.29.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "0.64.3",
+    "react-native-chart-kit": "^6.11.0",
+    "react-native-dialog": "^9.2.0",
+    "react-native-loading-spinner-overlay": "^2.0.0",
+    "react-native-safe-area-context": "3.3.2",
+    "react-native-screens": "~3.10.1",
+    "react-native-svg": "^12.1.1",
+    "react-native-web": "0.17.1",
+    "react-redux": "^7.2.6",
+    "react-stomp": "^5.1.0",
+    "sockjs-client": "^1.5.2",
+    "webstomp-client": "^1.2.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
